@@ -5,11 +5,11 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ramkumar-03&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=ramkumar03ace&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img width="20" />
-  <img src="https://streak-stats.demolab.com?user=ramkumar-03&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=ramkumar03ace&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
   <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ramkumar-03&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ramkumar03ace&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
@@ -98,9 +98,9 @@
 <br clear="both">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ramkumar-03/ramkumar-03/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ramkumar-03/ramkumar-03/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/ramkumar-03/ramkumar-03/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ramkumar03ace/ramkumar03ace/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ramkumar03ace/ramkumar03ace/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/ramkumar03ace/ramkumar03ace/output/github-snake.svg" />
 </picture>
 
 ###
@@ -108,9 +108,9 @@
 
 <h3 align="center">Full-time CSE student @VITv, part-time bug hunter 🐞</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ramkumar-03&label=Profile%20views&color=0e75b6&style=flat" alt="ramkumar-03" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ramkumar03ace&label=Profile%20views&color=0e75b6&style=flat" alt="ramkumar03ace" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ramkumar-03" alt="ramkumar-03" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ramkumar03ace" alt="ramkumar03ace" /></a> </p>
 
 - 🔭 I’m currently working on **My Portfolio Website**
 
@@ -129,7 +129,7 @@
 </p>
 
 <!--
-- 👋 Hi, I’m Ramkumar A D aka @ramkumar-03
+- 👋 Hi, I’m Ramkumar A D aka @ramkumar03ace
 - 👀 I’m interested in software development, cloud computing, and data analytics.
 - 🌱 I’m currently learning Spring Boot, Angular, and MySQL as part of my full-stack development internship journey @Infosys.
 - 💞️ I’m looking to collaborate on educational projects, web applications, and open-source initiatives.
@@ -139,6 +139,6 @@
 --->
 
 <!---
-ramkumar-03/ramkumar-03 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ramkumar03ace/ramkumar03ace is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
