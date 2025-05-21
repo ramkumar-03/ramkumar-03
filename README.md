@@ -81,6 +81,7 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/npm/CB3837" height="50" alt="npm logo"  />
 </div>
+<br>
 
 ###
 
@@ -124,9 +125,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/ramkumar-arcot-dharmalingam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ramkumar-arcot-dharmalingam" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/ramkumar_a_d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ramkumar_a_d" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ramkumar-arcot-dharmalingam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ramkumar-arcot-dharmalingam" height="40" width="50" /></a>
+<a href="https://www.leetcode.com/ramkumar_a_d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Ramkumar_A_D" height="40" width="50" /></a>
 </p>
+<br>
 
 <!--
 - 👋 Hi, I’m Ramkumar A D aka @ramkumar03ace
