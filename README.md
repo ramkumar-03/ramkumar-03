@@ -113,7 +113,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ramkumar03ace" alt="ramkumar03ace" /></a> </p>
 
-- 🔭 I’m currently working on **My Portfolio Website**
+- 🔭 I’m currently preparing for the **AWS Solutions Architect Associate (SAA) Certification**
 
 - 👨‍💻 All of my projects are available at [rk-dev-portfolio.vercel.app](rk-dev-portfolio.vercel.app)
 
